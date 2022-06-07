@@ -24,13 +24,13 @@ DEFAULT_LANG = 'ja'
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 400039429
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp1pfZEFBecXs"
+SERVER_CONSUMER_KEY = "w0MiUBXmR9qAgpzhjBF0"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
+SERVER_ID = "9ef32b560cd3413390aaad88319fac1b"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
